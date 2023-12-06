@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DanceMarketplace/static/css/main.7a279ab6.css",
+    "main.js": "/DanceMarketplace/static/js/main.9aad96aa.js",
+    "static/js/787.7436fb9d.chunk.js": "/DanceMarketplace/static/js/787.7436fb9d.chunk.js",
+    "static/media/logo.svg": "/DanceMarketplace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DanceMarketplace/index.html",
+    "main.7a279ab6.css.map": "/DanceMarketplace/static/css/main.7a279ab6.css.map",
+    "main.9aad96aa.js.map": "/DanceMarketplace/static/js/main.9aad96aa.js.map",
+    "787.7436fb9d.chunk.js.map": "/DanceMarketplace/static/js/787.7436fb9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a279ab6.css",
+    "static/js/main.9aad96aa.js"
+  ]
+}
