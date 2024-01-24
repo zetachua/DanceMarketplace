@@ -33,10 +33,10 @@ export default function PortfolioCard(props){
 
     return(
         <PortfolioCardContainer> 
-            {/* <PortfolioTitle><b>Portfolio</b></PortfolioTitle> */}
+            <PortfolioTitle><b>Working Zeta</b></PortfolioTitle>
             {/* <GradientBackground name='Hello' opacity='0.7' borderRadius= '10px' width='130px' height='60px' ></GradientBackground> */}
             <GrainyBackground backgroundColor={backgroundColor} gradientBackground={gradientBackground} baseFrequency={baseFrequency} color1={color1} color2={color2} color3={color3}/>
-            <PortfolioImage src={image} alt="temporary dp photo" />
+            {/* <PortfolioImage src={image} alt="temporary dp photo" /> */}
         </PortfolioCardContainer>
     )
 }
